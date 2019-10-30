@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "first post"
 tags: []
 date: 2019-10-29

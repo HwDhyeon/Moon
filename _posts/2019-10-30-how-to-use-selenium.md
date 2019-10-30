@@ -1,6 +1,6 @@
 ---
-layout: page
-title: first post
+layout: post
+title: 10월 30일 - 오늘의 할 일
 tags: [todo-list]
 date: 2019-10-30
 comments: false
