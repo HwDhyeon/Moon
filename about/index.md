@@ -6,19 +6,11 @@ date: 2019-10-29
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>My <a href="https://github.com/HwDhyeon"><b>GitHub</b></a> page</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 소속
+* 한양공업고등학교 (2017.3. ~ 2020.2.)
+* Team hycoding (2019.5. ~ )
 
 ## Preview
 
