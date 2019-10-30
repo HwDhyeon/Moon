@@ -1,6 +1,9 @@
 ---
+layout: page
 title: "first post"
-date: "2019-10-29"
+tags: []
+date: 2019-10-29
+comments: false
 ---
 
 # GitHub 블로그 개설
