@@ -2,9 +2,7 @@
 main:
   - title: "About"
     url: https://hwdhyeon.github.io/about/about/
-  - title: "Posts"
-    url: https://hwdhyeon.github.io/categories/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Archive"
+    url: /year-archive/
+  - title: "Category"
+    url: /categories/
