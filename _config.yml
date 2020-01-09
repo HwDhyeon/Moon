@@ -19,8 +19,8 @@ locale                   : "ko-KR"
 title                    : "Tech"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hwang DongHyun"
-description              : "An amazing website."
+name                     : 
+description              : 
 url                      : "https://hwdhyeon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -289,7 +289,7 @@ defaults:
     values:
       layout: single
       author_profile: false # 프로필 노출 여부
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
