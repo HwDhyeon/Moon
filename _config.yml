@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "Tech"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : 
+name                     : "Hwang DongHyun"
 description              : 
 url                      : "https://hwdhyeon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hwang DongHyun"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : ""
   location         : "Seoul"
   email            : "youfsk@naver.com"
   links:
