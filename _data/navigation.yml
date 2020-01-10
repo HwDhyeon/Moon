@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: https://hwdhyeon.github.io/about/about/
-  - title: "Archive"
-    url: /year-archive/
+  # - title: "Archive"
+  #   url: /year-archive/
   - title: "Category"
     url: /categories/
