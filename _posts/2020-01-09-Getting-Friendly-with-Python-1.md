@@ -12,7 +12,7 @@ comments: true
 
 이 강좌는 윈도우 환경 기준으로 작성되었다
 
-우선 파이썬 공식 홈페이지의 다운로드 페이지(http://www.python.org/downloads)에서 파이썬을 다운로드하자<br>
+우선 파이썬 공식 홈페이지의 다운로드 페이지([http://www.python.org/downloads](http://www.python.org/downloads))에서 파이썬을 다운로드하자<br>
 다음 화면에서 **Download Python 3.8.1**을 눌러 다운로드 하자<br>
 꼭 3.8.1 버전이 아니더라도 상관은 없지만 원활한 강좌를 위해 3.7 이상의 버전을 사용하길 권장한다<br>
 (이 글을 작성하는 시점의 최신 버전은 3.8.1이다)
