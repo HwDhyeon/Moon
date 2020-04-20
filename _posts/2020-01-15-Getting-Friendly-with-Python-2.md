@@ -2,7 +2,7 @@
 published: true
 layout: "single"
 title: "[Python] 파이썬과 친해지기🐍 - 맛보기 #2"
-category: "Python"
+category: "python"
 comments: true
 ---
 
